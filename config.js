@@ -3,8 +3,8 @@ const CONFIG = {
     introTitle: 'hiiii',
     introDesc: 
          mưa rồi sao chưa đổ t đi =))
-    Lạc
-ơng`,
+  
+
     btnIntro: '^^hok',
     title: '🥰',
     desc: 'bạn yêu mình đúng khonggg',
