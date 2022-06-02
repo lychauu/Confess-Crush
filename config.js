@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'biết rồi kkk, không phải chối'
     messDesc: 'thế có yêu k nói đi đừng sợ.',
     btnAccept: 'có nhé <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush'
-https://m.facebook.com/Lillieyu.12
+    messLink:https://m.facebook.com/Lillieyu.12
